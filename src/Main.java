@@ -21,5 +21,8 @@ public class Main {
 
     public void logging2() {
         System.out.println("log2");
+        System.out.println("test1추");
+        System.out.println("test3함수");
+
     }
 }
