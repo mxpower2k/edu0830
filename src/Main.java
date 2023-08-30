@@ -18,8 +18,4 @@ public class Main {
         System.out.println("test3함수");
 
     }
-
-    public void logging() {
-        System.out.println("loggigg");
-    }
 }
