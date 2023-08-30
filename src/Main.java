@@ -14,6 +14,8 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        System.out.println("test1추가");
+        System.out.println("test1추");
+        System.out.println("test3함수");
+
     }
 }
